@@ -6,9 +6,9 @@ taintflow is a home for open-source security tools, research, and experiments fo
 
 ## Areas of interest
 
-- **Application security** — code analysis, taint tracking, and vulnerability research.
-- **Software supply chain security** — CI/CD hardening, dependency security, build integrity, and provenance.
-- **AI security** — agent permissions, sandboxing, and adversarial evaluation.
+- **Application security** - code analysis, taint tracking, and vulnerability research.
+- **Software supply chain security** - CI/CD hardening, dependency security, build integrity, and provenance.
+- **AI security** - agent permissions, sandboxing, and adversarial evaluation.
 
 ## Building in the open
 
